@@ -7,13 +7,13 @@ The aim of analysis is to identify the root cause of the problem (i.e. cancellat
 
 There are six attributes associated with each request made by a customer:
 
-Request id: A unique identifier of the request
-Time of request: The date and time at which the customer made the trip request
-Drop-off time: The drop-off date and time, in case the trip was completed 
-Pick-up point: The point from which the request was made
-Driver id: The unique identification number of the driver
-Status of the request: The final status of the trip, that can be either completed, cancelled by the driver or no cars available
-Note: For this assignment, only the trips to and from the airport are being considered.
+* Request id: A unique identifier of the request
+* Time of request: The date and time at which the customer made the trip request
+* Drop-off time: The drop-off date and time, in case the trip was completed 
+* Pick-up point: The point from which the request was made
+* Driver id: The unique identification number of the driver
+* Status of the request: The final status of the trip, that can be either completed, cancelled by the driver or no cars available
+  Note: For this assignment, only the trips to and from the airport are being considered.
 
 
 Results Expected
